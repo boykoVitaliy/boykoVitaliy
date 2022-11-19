@@ -1,4 +1,4 @@
-# Test task for GlobalLogic
+# Test task
 
 All script make and started on **linux Mint!**
 
